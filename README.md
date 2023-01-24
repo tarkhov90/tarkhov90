@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kirill
 
-**YPython developer, graduated from Yandex.Practicum**
+**Python developer, graduated from Yandex.Practicum**
 
 **Languages and Tools:**
 - Python, Django, PostgreSQL, Gunicorn, Nginx, REST API, Docker, Postman
